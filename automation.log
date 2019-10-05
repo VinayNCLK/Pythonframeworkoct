@@ -1,0 +1,488 @@
+09/29/2019 12:51:27 PM - LoginPO - INFO: Identified webelement with locator idand locator value username
+09/29/2019 12:51:27 PM - LoginPO - INFO: Entered text or data admin into element username
+09/29/2019 12:51:27 PM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+09/29/2019 12:51:27 PM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+09/29/2019 12:51:27 PM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+09/29/2019 12:51:27 PM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+09/29/2019 12:51:27 PM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+09/29/2019 12:51:27 PM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+09/29/2019 12:51:33 PM - HomePO - INFO: Identified webelement with locator idand locator value logoutLink
+09/29/2019 12:51:35 PM - HomePO - INFO: Clicked on web element logoutLink
+09/29/2019 12:56:17 PM - LoginPO - INFO: Identified webelement with locator idand locator value username
+09/29/2019 12:56:17 PM - LoginPO - INFO: Entered text or data admin into element username
+09/29/2019 12:56:17 PM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+09/29/2019 12:56:17 PM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+09/29/2019 12:56:17 PM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+09/29/2019 12:56:17 PM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+09/29/2019 01:07:45 PM - LoginPO - INFO: Identified webelement with locator idand locator value username
+09/29/2019 01:07:45 PM - LoginPO - INFO: Entered text or data admin into element username
+09/29/2019 01:07:45 PM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+09/29/2019 01:07:45 PM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+09/29/2019 01:07:45 PM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+09/29/2019 01:07:45 PM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+09/29/2019 01:07:45 PM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+09/29/2019 01:07:45 PM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+09/29/2019 01:07:52 PM - HomePO - INFO: Identified webelement with locator idand locator value logoutLink
+09/29/2019 01:07:55 PM - HomePO - INFO: Clicked on web element logoutLink
+09/29/2019 01:11:15 PM - LoginPO - INFO: Identified webelement with locator idand locator value username
+09/29/2019 01:11:15 PM - LoginPO - INFO: Entered text or data admin into element username
+09/29/2019 01:11:15 PM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+09/29/2019 01:11:15 PM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+09/29/2019 01:11:15 PM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+09/29/2019 01:11:15 PM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:19:52 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:19:52 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:19:52 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:19:53 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:19:53 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:19:53 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:27:50 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:27:50 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:27:50 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:27:50 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:27:50 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:27:50 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:27:50 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:27:50 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:27:54 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:27:57 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:27:57 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:27:57 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:27:57 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:33:00 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:33:00 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:33:00 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:33:00 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:33:00 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:33:00 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:33:00 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:33:00 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:33:04 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:33:07 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:33:07 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:33:07 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:33:09 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 10:33:09 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:33:10 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 10:33:10 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 10:33:10 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 10:33:10 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 10:33:10 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 10:33:10 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 10:33:10 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 10:33:10 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 10:33:11 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 10:33:11 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 10:33:11 AM - CreateuserPO - INFO: Entered text or data test@123 into element createUserPanel_passwordField
+10/05/2019 10:33:11 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:33:11 AM - CreateuserPO - INFO: Entered text or data test@123 into element createUserPanel_passwordCopyField
+10/05/2019 10:33:11 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:33:11 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:34:22 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:34:22 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:34:22 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:34:22 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:34:22 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:34:22 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:34:22 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:34:22 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:34:26 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:34:29 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:34:29 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:34:29 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:34:31 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 10:34:31 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:34:31 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 10:34:31 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 10:34:31 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 10:34:31 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 10:34:32 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 10:34:32 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 10:34:32 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 10:34:32 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 10:34:32 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 10:34:32 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 10:34:32 AM - CreateuserPO - INFO: Entered text or data test@123 into element createUserPanel_passwordField
+10/05/2019 10:34:32 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:34:32 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 10:34:32 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:34:33 AM - CreateuserPO - INFO: Entered text or data test@123 into element createUserPanel_passwordCopyField
+10/05/2019 10:34:33 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:34:33 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:35:50 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:35:50 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:35:50 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:35:50 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:35:50 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:35:50 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:35:50 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:35:50 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:35:54 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:35:57 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:35:57 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:35:57 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:35:59 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 10:35:59 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:35:59 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 10:35:59 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 10:35:59 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 10:35:59 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 10:36:00 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 10:36:00 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 10:36:00 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 10:36:00 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 10:36:00 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 10:36:00 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 10:36:00 AM - CreateuserPO - INFO: Entered text or data test@123 into element createUserPanel_passwordField
+10/05/2019 10:36:00 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:36:00 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 10:36:00 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:36:01 AM - CreateuserPO - INFO: Entered text or data test@123 into element createUserPanel_passwordCopyField
+10/05/2019 10:36:01 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:36:01 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:37:10 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:37:10 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:37:10 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:37:10 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:37:10 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:37:11 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:37:11 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:37:11 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:37:15 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:37:17 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:37:17 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:37:18 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:37:20 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 10:37:20 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:37:20 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 10:37:20 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 10:37:20 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 10:37:20 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 10:37:20 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 10:37:20 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Entered text or data test@123 into element createUserPanel_passwordField
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Entered text or data test@123 into element createUserPanel_passwordCopyField
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:37:21 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:37:21 AM - HomePO - INFO: Identified webelement with locator idand locator value logoutLink
+10/05/2019 10:41:38 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:41:38 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:41:38 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:41:38 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:41:38 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:41:38 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:41:38 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:41:38 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:41:42 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:41:45 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:41:45 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:41:45 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:41:47 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 10:41:47 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:41:47 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 10:41:47 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 10:41:47 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 10:41:47 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 10:41:47 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 10:41:47 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 10:41:48 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 10:41:48 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 10:41:48 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 10:41:48 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 10:41:48 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordField
+10/05/2019 10:41:48 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:41:48 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 10:41:48 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:41:48 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordCopyField
+10/05/2019 10:41:48 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:41:49 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:41:49 AM - HomePO - INFO: Identified webelement with locator idand locator value logoutLink
+10/05/2019 10:45:53 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:45:53 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:45:53 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:45:53 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:45:53 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:45:53 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:45:53 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:45:53 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:45:57 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:46:00 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:46:00 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:46:00 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:46:02 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 10:46:02 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:46:02 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 10:46:02 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 10:46:02 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 10:46:02 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordCopyField
+10/05/2019 10:46:03 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:46:04 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:46:04 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Create User')]
+10/05/2019 10:46:04 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'Create User')]
+10/05/2019 10:46:04 AM - HomePO - INFO: Identified webelement with locator idand locator value logoutLink
+10/05/2019 10:50:26 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:50:26 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:50:26 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:50:26 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:50:26 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:50:26 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:50:26 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:50:26 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:50:30 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:50:33 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:50:33 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:50:33 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:50:35 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 10:50:35 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:50:35 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 10:50:35 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 10:50:35 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 10:50:35 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 10:50:35 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 10:50:35 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordField
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordCopyField
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:50:36 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Create User')]
+10/05/2019 10:50:37 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'Create User')]
+10/05/2019 10:50:37 AM - HomePO - INFO: Waited for element 40
+10/05/2019 10:50:37 AM - HomePO - INFO: Identified webelement with locator idand locator value logoutLink
+10/05/2019 10:54:47 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:54:47 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:54:47 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:54:47 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:54:47 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:54:47 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:54:47 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:54:47 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:54:51 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:54:54 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:54:54 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:54:54 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:54:56 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 10:54:56 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:54:56 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 10:54:56 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 10:54:57 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 10:54:57 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 10:54:57 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 10:54:57 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 10:54:57 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 10:54:57 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 10:54:57 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 10:55:12 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 10:55:12 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordField
+10/05/2019 10:55:12 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:55:13 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 10:55:13 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:55:13 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordCopyField
+10/05/2019 10:55:13 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:55:13 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:55:43 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Create User')]
+10/05/2019 10:55:43 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'Create User')]
+10/05/2019 10:55:58 AM - HomePO - INFO: Waited for element 40
+10/05/2019 10:55:58 AM - HomePO - INFO: Identified webelement with locator idand locator value logoutLink
+10/05/2019 10:57:38 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:57:38 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:57:38 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:57:38 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:57:38 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:57:38 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:57:38 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:57:38 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:57:42 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:57:45 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:57:45 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:57:45 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:57:47 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 10:57:47 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:57:47 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 10:57:47 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 10:57:47 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 10:57:47 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 10:57:47 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 10:57:47 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordField
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordCopyField
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:57:48 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Create User')]
+10/05/2019 10:57:49 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'Create User')]
+10/05/2019 10:58:04 AM - HomePO - INFO: Waited for element 40
+10/05/2019 10:58:04 AM - HomePO - INFO: Identified webelement with locator idand locator value logoutLink
+10/05/2019 10:59:03 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 10:59:03 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 10:59:03 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 10:59:03 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 10:59:03 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 10:59:03 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 10:59:03 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 10:59:03 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 10:59:08 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 10:59:11 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 10:59:11 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 10:59:11 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 10:59:13 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 10:59:13 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 10:59:13 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 10:59:13 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 10:59:13 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 10:59:13 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 10:59:14 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 10:59:14 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 10:59:14 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 10:59:14 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 10:59:14 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 10:59:14 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 10:59:14 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordField
+10/05/2019 10:59:14 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:59:14 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 10:59:14 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 10:59:15 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordCopyField
+10/05/2019 10:59:15 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:59:15 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 10:59:15 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Create User')]
+10/05/2019 10:59:15 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'Create User')]
+10/05/2019 10:59:30 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:04:52 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 11:04:52 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 11:04:52 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 11:04:52 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 11:04:52 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 11:04:53 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 11:04:53 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 11:04:53 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 11:04:57 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 11:05:00 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 11:05:00 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 11:05:00 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 11:05:02 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 11:05:02 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 11:05:02 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 11:05:02 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 11:05:03 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 11:05:03 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 11:05:03 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 11:05:03 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 11:05:03 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 11:05:03 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 11:05:03 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 11:05:03 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 11:05:04 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordField
+10/05/2019 11:05:04 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:05:04 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 11:05:04 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:05:04 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordCopyField
+10/05/2019 11:05:04 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 11:05:04 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 11:05:04 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Create User')]
+10/05/2019 11:05:04 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'Create User')]
+10/05/2019 11:05:19 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:07:33 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 11:07:33 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 11:07:33 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 11:07:33 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 11:07:33 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 11:07:33 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 11:07:33 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 11:07:33 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 11:07:37 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 11:07:40 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 11:07:40 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 11:07:40 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 11:07:42 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 11:07:42 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 11:07:42 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 11:07:42 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 11:07:43 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 11:07:43 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 11:07:43 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 11:07:43 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 11:07:43 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 11:07:43 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 11:07:43 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 11:07:43 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 11:07:43 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordField
+10/05/2019 11:07:43 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:07:44 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 11:07:44 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:07:44 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordCopyField
+10/05/2019 11:07:44 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 11:07:44 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 11:07:44 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Create User')]
+10/05/2019 11:07:44 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'Create User')]
+10/05/2019 11:07:59 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:13:25 AM - LoginPO - INFO: Identified webelement with locator idand locator value username
+10/05/2019 11:13:26 AM - LoginPO - INFO: Entered text or data admin into element username
+10/05/2019 11:13:26 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //input[@placeholder='Password']
+10/05/2019 11:13:26 AM - LoginPO - INFO: Entered text or data manager into element //input[@placeholder='Password']
+10/05/2019 11:13:26 AM - LoginPO - INFO: Identified webelement with locator idand locator value keepLoggedInCheckBoxContainer
+10/05/2019 11:13:26 AM - LoginPO - INFO: Clicked on web element keepLoggedInCheckBoxContainer
+10/05/2019 11:13:26 AM - LoginPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Login')]
+10/05/2019 11:13:26 AM - LoginPO - INFO: Clicked on web element //div[contains(text(),'Login')]
+10/05/2019 11:13:30 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[text()='USERS']
+10/05/2019 11:13:33 AM - HomePO - INFO: Clicked on web element //div[text()='USERS']
+10/05/2019 11:13:33 AM - HomePO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'New User')]
+10/05/2019 11:13:33 AM - HomePO - INFO: Clicked on web element //div[contains(text(),'New User')]
+10/05/2019 11:13:35 AM - CreateuserPO - INFO: Waited for element 20
+10/05/2019 11:13:35 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_firstNameField
+10/05/2019 11:13:35 AM - CreateuserPO - INFO: Entered text or data qspider into element createUserPanel_firstNameField
+10/05/2019 11:13:35 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_middleNameField
+10/05/2019 11:13:35 AM - CreateuserPO - INFO: Entered text or data python into element createUserPanel_middleNameField
+10/05/2019 11:13:35 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_lastNameField
+10/05/2019 11:13:35 AM - CreateuserPO - INFO: Entered text or data naveen into element createUserPanel_lastNameField
+10/05/2019 11:13:35 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_emailField
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Entered text or data test@gmail.com into element createUserPanel_emailField
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_usernameField
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Entered text or data test into element createUserPanel_usernameField
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordField
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordField
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordCopyField
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'-- department not assigned --')]
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'-- department not assigned --')]
+10/05/2019 11:13:36 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Create User')]
+10/05/2019 11:13:37 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'Create User')]
+10/05/2019 11:13:52 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:13:52 AM - CreateuserPO - INFO: Cleared the text from web element createUserPanel_passwordCopyField
+10/05/2019 11:13:52 AM - CreateuserPO - INFO: Identified webelement with locator idand locator value createUserPanel_passwordCopyField
+10/05/2019 11:13:52 AM - CreateuserPO - INFO: Entered text or data nav@123 into element createUserPanel_passwordCopyField
+10/05/2019 11:13:52 AM - CreateuserPO - INFO: Identified webelement with locator xpathand locator value //div[contains(text(),'Create User')]
+10/05/2019 11:13:52 AM - CreateuserPO - INFO: Clicked on web element //div[contains(text(),'Create User')]
+10/05/2019 11:13:52 AM - HomePO - INFO: Waited for element 40
+10/05/2019 11:13:52 AM - HomePO - INFO: Identified webelement with locator idand locator value logoutLink
