@@ -1,0 +1,1 @@
+pytest Tests/TestCase2.py -s -v --browser chrome --html=htmlreport.html
